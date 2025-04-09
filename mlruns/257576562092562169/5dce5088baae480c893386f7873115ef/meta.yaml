@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/project_iris/iris_project/mlruns/257576562092562169/5dce5088baae480c893386f7873115ef/artifacts
+end_time: 1744216259304
+entry_point_name: ''
+experiment_id: '257576562092562169'
+lifecycle_stage: active
+run_id: 5dce5088baae480c893386f7873115ef
+run_name: fun-worm-745
+run_uuid: 5dce5088baae480c893386f7873115ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744216252246
+status: 3
+tags: []
+user_id: Subhakanta

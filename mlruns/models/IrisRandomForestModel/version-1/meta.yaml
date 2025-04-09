@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744216420114
+current_stage: None
+description: null
+last_updated_timestamp: 1744216420114
+name: IrisRandomForestModel
+run_id: fba04235455d4492922f17f84eb8e5d9
+run_link: null
+source: file:///E:/project_iris/iris_project/mlruns/257576562092562169/fba04235455d4492922f17f84eb8e5d9/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///E:/project_iris/iris_project/mlruns/257576562092562169/fba04235455d4492922f17f84eb8e5d9/artifacts/model
+user_id: null
+version: 1

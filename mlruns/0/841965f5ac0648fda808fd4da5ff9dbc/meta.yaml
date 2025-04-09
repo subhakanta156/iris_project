@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/841965f5ac0648fda808fd4da5ff9dbc/artifacts
+deleted_time: 1744183496320
+end_time: 1744182168228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 841965f5ac0648fda808fd4da5ff9dbc
+run_name: Decision_Tree_Model
+run_uuid: 841965f5ac0648fda808fd4da5ff9dbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744182162517
+status: 4
+tags: []
+user_id: Subhakanta
